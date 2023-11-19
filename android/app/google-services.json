@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553544268060",
+    "project_id": "shop-cbf61",
+    "storage_bucket": "shop-cbf61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553544268060:android:ab2d215565cdc7c24fa2d9",
+        "android_client_info": {
+          "package_name": "com.example.market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfv8hFIn_hjtXlriY8-whaCSBwIHfIxFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
